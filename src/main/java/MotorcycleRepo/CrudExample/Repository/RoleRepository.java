@@ -1,7 +1,6 @@
 package MotorcycleRepo.CrudExample.Repository;
 
 import MotorcycleRepo.CrudExample.Entity.RoleEntity;
-import MotorcycleRepo.CrudExample.Entity.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
